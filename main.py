@@ -2,7 +2,7 @@ from utils.tipoDados import tipoDados
 from utils.funcoesAnonimas import funcoesAnonimas, funcoesAnonimas2
 from exs.ex1 import soma
 from exs.ex2 import obterTemperatura
-from exs.ex3 import processar_nomes
+from exs.ex5 import processar_nomes
 from exs.ex4 import acumulador_media
 
 from exs.ex5 import processar_nomes
