@@ -1,6 +1,6 @@
 from functools import reduce
 
-valores = [3.45, 2.78, 4.91, 5.03]
+valores = [3.45, 2.78, 4.91, 5.03,90.90]
 
 # Função usada pelo reduce
 def acumulador_media(acc, val):
