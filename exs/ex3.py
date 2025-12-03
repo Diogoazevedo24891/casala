@@ -1,8 +1,10 @@
-def maiusculas_palavras(frase):
-    frase = "Ola mundo"
+def maiusculas_palavras():
+    frase = input("Digite uma frase: ")
     palavras = frase.split()
     maiusculas = []
     for p in palavras:
         maiusculas.append(p.upper())
-    return maiusculas
 
+    print("Palavras em maiúsculas:")
+    for p in maiusculas:
+        print(p)
